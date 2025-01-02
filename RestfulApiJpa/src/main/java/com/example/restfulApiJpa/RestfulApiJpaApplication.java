@@ -33,7 +33,7 @@ public class RestfulApiJpaApplication {
 		SpringApplication.run(RestfulApiJpaApplication.class, args);
 	}
 
-	// GitHub 연결하기@@@@@@@@@@
+	// GitHub 연결하기@@@@@@@@@@####################
 	@Autowired
 	private SamTableService service; 
 
